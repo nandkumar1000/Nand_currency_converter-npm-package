@@ -38,8 +38,6 @@ You can install the package via npm:
 npm i nand_currency_converter
 ````
 
-> **Note:** Replace `currency-converter-your-package-name` with the actual package name once published.
-
 ---
 
 ## Prerequisites
