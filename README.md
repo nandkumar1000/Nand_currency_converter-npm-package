@@ -35,7 +35,7 @@ A lightweight and easy-to-use Node.js package for converting currency amounts us
 You can install the package via npm:
 
 ```bash
-npm install currency-converter-your-package-name
+npm i nand_currency_converter
 ````
 
 > **Note:** Replace `currency-converter-your-package-name` with the actual package name once published.
@@ -183,12 +183,12 @@ If you encounter any issues or have questions, please open an issue on the repos
 * [ExchangeRate-API Documentation](https://www.exchangerate-api.com/docs)
 * [ISO 4217 Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
 
----
+
 
 *Created and maintained by \[Nand Kumar Sahu].*
 
-```
 
----
+
+
 
 
