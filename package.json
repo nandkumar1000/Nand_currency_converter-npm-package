@@ -1,0 +1,32 @@
+{
+  "name": "nand_currency_converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "exchange",
+    "money",
+    "currency-api"
+  ],
+  "author": "Nand Kumar Sahu",
+  "license": "MIT",
+  "description": "A simple currency converter library for Node.js using ExchangeRate-API",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nandkumar1000/Nand_currency_converter-npm-package"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=12"
+  },
+  "type": "commonjs"
+}
